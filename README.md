@@ -9,7 +9,7 @@ Python installed.
 ## How to run
 Follow these steps:
 ```
- git clone
+ git clone https://github.com/jbakchr/appear-active-script.git
  pip install pyautogui
  python3 
 ```
