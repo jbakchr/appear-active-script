@@ -11,7 +11,7 @@ Follow these steps:
 ```
  git clone https://github.com/jbakchr/appear-active-script.git
  pip install pyautogui
- python3 
+ python3 app.py
 ```
  
 You're welcome ..
